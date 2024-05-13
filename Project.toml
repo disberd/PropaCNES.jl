@@ -1,0 +1,4 @@
+name = "PropaCNES"
+uuid = "e7cd5c29-7e50-4fac-864d-30ac56cfaf47"
+authors = ["Alberto Mengali <disberd@gmail.com>"]
+version = "0.1.0"
